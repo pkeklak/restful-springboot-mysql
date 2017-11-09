@@ -1,4 +1,4 @@
-package cz.keklak.restfulapi.model;
+package cz.keklak.rest.model;
 
 import javax.persistence.*;
 

@@ -1,4 +1,4 @@
-package cz.keklak.restfulapi;
+package cz.keklak.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
